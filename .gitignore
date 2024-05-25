@@ -1,0 +1,15 @@
+# Python
+myEnv/
+__pycache__/
+*.pyc
+instance/
+.env
+
+# Node
+node_modules/
+build/
+npm-debug.log
+yarn-error.log
+
+# Misc
+.DS_Store
